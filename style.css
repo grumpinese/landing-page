@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+
+.nav {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.nav-list {
+    font-size: 18px;
+    color: #E5E7EB;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+}
+
+a:link {
+    font-size:18px;
+    text-decoration: none;
+    color: #E5E7EB;
+}
